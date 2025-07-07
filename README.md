@@ -7,5 +7,5 @@
 
 #en el segundo slider ira un video creado con ia que aun esta en proceso#
 
-*son 3 sliders que tienen una transicion vertical cada 8 segundos*
-*frases que entran desde los costados, animaciones scroll, transiciones*
+*son 3 sliders que tienen una transicion vertical cada 8 segundos.*
+*frases que entran desde los costados, animaciones scroll, transiciones y demas*

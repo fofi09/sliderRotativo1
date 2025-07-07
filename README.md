@@ -1,6 +1,6 @@
 *slider rotativo*
 
-##por el momento no es responsive##
+##por el momento no es responsivo##
 
 *Este proyecto esta pensado para demostar manejo de talwind css, manejo de transiciones y de la creatividad.*
 *en este link podes visualizar la pagina:https://fofi09.github.io/sliderRotativo1/*

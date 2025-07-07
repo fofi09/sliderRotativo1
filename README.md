@@ -1,6 +1,6 @@
 *slider rotativo*
 *Este proyecto esta pensado para demostar manejo de talwind css, manejo de transiciones y de la creatividad.*
-*en este link podes visualizar la pagina: https://github.com/fofi09/sliderRotativo1/deployments/github-pages*
+*en este link podes visualizar la pagina:https://fofi09.github.io/sliderRotativo1/*
 
 *no es una pagina web completa pero es totalmente escalable para llegar a ser una*
 
